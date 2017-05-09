@@ -1,0 +1,26 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300);
+*{margin: 0; padding: 0;}
+
+.biography, .pro, .about_me, .about_me h1, .about_me h2, .about_me h3, .find_me_out a, img {transition: all 0.9s ease 0s;-moz-transition: all 0.9s ease 0s;-webkit-transition: all 0.9s ease 0s;-o-transition: all 0.9s ease 0s;}
+
+body {background: #01A0DB; color: #fff; font-family: 'Open Sans', sans-serif;}
+img {width: 160px; height: 160px;}
+img:hover {width: 200px; height: 200px;}
+.biography {text-align: center; color: #fff; }
+.pro {margin-top: 100px; margin-bottom: 5px;}
+.about_me {color: #fff; text-align: center;}
+.about_me h1 {text-decoration: none; font-weight: normal; font-size: 35px; line-height: 40px; margin-top: 8px; margin-bottom: 8px;}
+.about_me h1:hover {font-size: 45px; line-height: 50px;}
+.about_me h1 span {font-weight: normal;}
+.about_me h2 {font-size: 30px; font-weight: normal; margin-top: 8px; margin-bottom: 8px; line-height: 40px;}
+.about_me h2:hover {font-size: 40px; line-height: 50px;}
+.about_me h3 {font-size: 30px; font-weight: normal; line-height: 40px; margin-bottom: 8px;}
+.about_me h3:hover {font-size: 40px; line-height: 50px;}
+.find_me_out {text-decoration: none;}
+.find_me_out a { font-weight: normal; text-decoration: none; color: #FFF; padding: 5px 15px; display: inline-block; margin-top: 13px; font-size: 19px; margin-right: 5px;}
+.facebook {background: #4166BB;}
+.facebook:hover {background: #22438E; font-size: 25px;}
+.twitter {background: #32CEFF;}
+.twitter:hover {background: #0C86AC; font-size: 25px;}
+.gplus {background: #EA0000;}
+.gplus:hover {background: #A70303; font-size: 25px;}
